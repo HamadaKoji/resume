@@ -11,6 +11,7 @@
 
 ## 各種アカウント
 
+- twitter: [濱田孝治（ハマコー）さん \(@hamako9999\) / Twitter](https://twitter.com/hamako9999)
 - blog: [https://dev.classmethod.jp/author/hamada-koji](https://dev.classmethod.jp/author/hamada-koji)
 - Speakerdeck: [https://speakerdeck.com/hamadakoji](https://speakerdeck.com/hamadakoji)
 - GitHub: [https://github.com/HamadaKoji](https://github.com/HamadaKoji)
