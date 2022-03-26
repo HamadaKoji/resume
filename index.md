@@ -1,7 +1,5 @@
 # 職務経歴書
 
-職務経歴の概要です。
-
 ## 基本情報
 
 - 氏名：濱田孝治
@@ -11,17 +9,36 @@
 
 ## 各種アカウント
 
-- twitter: [濱田孝治（ハマコー）さん \(@hamako9999\) / Twitter](https://twitter.com/hamako9999)
+- twitter: [濱田孝治（ハマコー） \(@hamako9999\) / Twitter](https://twitter.com/hamako9999)
 - blog: [https://dev.classmethod.jp/author/hamada-koji](https://dev.classmethod.jp/author/hamada-koji)
 - Speakerdeck: [https://speakerdeck.com/hamadakoji](https://speakerdeck.com/hamadakoji)
 - GitHub: [https://github.com/HamadaKoji](https://github.com/HamadaKoji)
+
+## 主要な技術スタック
+
+- AWS関連各サービスの専門スキル
+  - コンピューティング
+    - EC2, Lambda, Batch, App Runner
+  - コンテナ領域
+    - ECS, ECR, EKS, Cloud Map
+  - ストレージ
+    - S3, EFS, Backup
+  - データベース
+    - RDS, Aurora, DynamoDB, ElastiCache
+  - ネットワーキング
+    - VPC, CloudFront, Route 53, API Gateway, App Mesh, Cloud Map
+  - 開発ツール
+    - CodePipeline, CodeCommit, CodeBuild, CodeDeploy
+  - 管理とガバナンス
+    - Organizations, CloudWatch, CloudFormation, CloudTrail, Config, Systems Manager
+  
 
 ## 保有スキル
 
 - オンプレを中心としたインフラ基盤の提案、設計、構築
   - 金融系、製薬系、BtoC系など、さまざまな業界における、インフラ基盤の要件定義、設計、構築を実施
-  - ほぼ全ての作業において、設計だけではなく、実装、動作確認、現場引渡しを実施可能
-- AWSを利用したインフラ構築
+  - ほぼ全ての作業において、要件定義だけではなく、設計、実装、動作確認、現場引渡しを実施可能
+- AWSを利用したインフラ、アプリケーション環境のコンサルティング、設計、実装
   - AWSを利用したクラウドネイティブな全体アーキテクチャのコンサルティング、設計、実装が可能
   - 一般的なWebアプリケーション構成やコンテナ、サーバーレスも含めた技術スタックの中から、業務最適化された提案を実施
 - アーキテクチャ構築、標準化
@@ -36,14 +53,15 @@
 ## 保有資格
 
 - AWS関連
-  - SAA（Soluctions Architect Associate）
-  - SOA（SysOps Administrator Associate）
-  - DVA（Developer Associate）
-  - SAP（Soluctions Architect Professional）
-  - DVP（DevOps Engineer Professional）
-  - ANS（Advanced Networking）
-  - DAS（Data Analytics Specialty）
-  - SCS（Security Specialty）
+  - Soluctions Architect Associate
+  - SysOps Administrator Associate
+  - Developer Associate
+  - Soluctions Architect Professional
+  - DevOps Engineer Professional
+  - Advanced Networking
+  - Data Analytics Specialty
+  - Security Specialty
+  - Database Specialty
 - IPA
   - 基本情報処理技術者
   - 応用情報技術者
@@ -60,21 +78,27 @@
 - Twitter Share：12796
 - はてブ：13625
 
-キャリアにおいて、定期的に記事を投稿。1記事あたりのはてなブックマーク数は約71。
+キャリアにおいて、定期的に記事を投稿。1記事あたりのはてなブックマーク数は平均71。
 
 
-## その他認定など
+## 認定、課外活動など
 
-- 2020 APN AWS Ambassador
-- 2019 APN AWS Top Engineers
+- 2020 APN AWS Ambassador（全9名中）
+  - [Japan APN Ambassador 2020 の発表 \| AWS JAPAN APN ブログ](https://aws.amazon.com/jp/blogs/psa/japan-apn-ambassador-2020-awards/)
+- 2019 APN AWS Top Engineer 
 - JAWS-UG コンテナ支部 運営
+  - [JAWS\-UG コンテナ支部 \- connpass](https://jawsug-container.connpass.com/)
+  - 2019年より運営メンバーに入り、コンテンツの企画、調整、運営、登壇を実施
+  - メンバー数：3007名（2022年3月現在）
 - 執筆書籍
   - [みんなのAWS　〜AWSの基本を最新アーキテクチャでまるごと理解！](https://www.amazon.co.jp/dp/B087C1K5V1/)
+  - 第2章の主に、コンテナを利用したアプリケーション環境の構築、Infrastructure as Codeを利用したハンズオン、CI/CD環境の構築について執筆
 
-## 主な外部登壇履歴
+## 登壇履歴（スライド、ブログ）
 
 - [サーバーレスとコンテナを活用したアプリケーションの開発の今 〜クラスメソッドMADの顧客は何を採用しているのか？〜 \- Speaker Deck](https://speakerdeck.com/hamadakoji/sabaresutokontenawohuo-yong-sitaapurikesiyonfalsekai-fa-falsejin-kurasumesotudomadfalsegu-ke-hahe-wocai-yong-siteirufalseka)
 - [あなたと組織がモダンアプリケーション開発を実践できるようになるまでの全過程 \- Speaker Deck](https://speakerdeck.com/hamadakoji/anatatozu-zhi-gamodanapurikesiyonkai-fa-woshi-jian-dekiruyouninarumadefalsequan-guo-cheng)
+- [AWS＆Azure＆GCPの凄腕エンジニアが激論！「雲の中心で愛を叫ぶ！ クラウド横断パネルディスカッション」レポート\(完全版\) \#devsumi \| DevelopersIO](https://dev.classmethod.jp/articles/devsumi2020-report-14-c-8/)
 - [CI/CDプロセスにCloudFormationを本気導入するために考えるべきこと \- Speaker Deck](https://speakerdeck.com/hamadakoji/cdpurosesunicloudformationwoben-qi-dao-ru-surutamenikao-erubekikoto)
 - [CloudShellをIaC実行基盤として考える \- Speaker Deck](https://speakerdeck.com/hamadakoji/cloudshellwoiacshi-xing-ji-pan-tositekao-eru)
 - [コンテナ系リリース総ざらい〜独断と偏見のランキングを添えて〜 \- Speaker Deck](https://speakerdeck.com/hamadakoji/kontenaxi-ririsuzong-zarai-du-duan-topian-jian-falserankinguwotian-ete)
@@ -88,6 +112,15 @@
 - [re:Invent2018のマイクロサービス関連新サービス（Cloud MapとApp Mesh） \- Speaker Deck](https://speakerdeck.com/hamadakoji/re-invent2018falsemaikurosabisuguan-lian-xin-sabisu-cloud-maptoapp-mesh)
 - [コンテナジャーニー〜AWSにおける段階式コンテナ運用〜 \- Speaker Deck](https://speakerdeck.com/hamadakoji/kontenaziyani-awsniokeruduan-jie-shi-kontenayun-yong)
 
+## 登壇履歴（動画）
+
+- [あなたと組織がモダンアプリケーション開発を実践できるようになるまでの全過程 \#devio2021 \- YouTube](https://www.youtube.com/watch?v=_a3KbH_ehiw)
+- [\(10\) あなたの組織に最適なコンテナデプロイ方法とは？ 〜ECSにおけるデプロイ最新機能てんこ盛り〜 \#devio2020 \- YouTube](https://www.youtube.com/watch?v=68UZucvq8Ok)
+- [\(10\) コンテナ職人が注目する2大新サービス！！re:Invent発表の新サービスを解説｜Developers\.IO TV in ラスベガス Vol\.17 \#reinvent \#cmdevio \- YouTube](https://www.youtube.com/watch?v=VQzOJpuKU2w)
+- [\(10\) 2021年コンテナ最前線〜今AWSでコンテナホストするならなにが現実解なのか？〜 \#devio2021 \- YouTube](https://www.youtube.com/watch?v=1GQkfMW7W3w)
+- [\(10\) サーバレス時代のマルチテナンシーを考える \#cm\_showcase \- YouTube](https://www.youtube.com/watch?v=b3WORvcyWps)
+- [\(10\) 【MAD（モダンアプリケーション開発）領域】AWS re:Invent前に振り返っておきたい去年から今年にかけての激アツアップデート \#akibamad \#reinvent \- YouTube](https://www.youtube.com/watch?v=-8BxO3eEj7g)
+- [\(10\) re:Invent2020のコンテナ系リリース総ざらい 〜独断と偏見のランキングを添えて〜 \#reinvent \#cmregrowth \- YouTube](https://www.youtube.com/watch?v=3-cRxcjUv-I)
 
 
 ## 職務経歴：クラスメソッド株式会社（2017年9月〜現在）
@@ -132,7 +165,7 @@
 
 - 担当領域
   - クラスメソッド側チームリーダー
-  - AWS環境のインフラを中心としたコンサルティング、EKS利用方法の策定
+  - AWS環境のインフラを中心としたコンサルティング、EKS利用方法の策定、基盤部分の実装  
 
 #### 株式会社ユニクエスト様
 
