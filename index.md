@@ -137,7 +137,7 @@
   - 参考：[MAD（Modern Application Development） \| クラスメソッド](https://classmethod.jp/services/mad/)
 - 2021年7月～
   - MAD事業部部長に就任
-  - 事業部の統括（売上、利益、採用、経費）
+  - 事業部の統括（売上、利益、採用、経費、顧客案件）
   - 顧客対応実施
 
 ### 主な顧客プロジェクト（公開事例）
