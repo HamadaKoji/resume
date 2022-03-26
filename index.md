@@ -115,12 +115,12 @@
 ## 登壇履歴（動画）
 
 - [あなたと組織がモダンアプリケーション開発を実践できるようになるまでの全過程 \#devio2021 \- YouTube](https://www.youtube.com/watch?v=_a3KbH_ehiw)
-- [\(10\) あなたの組織に最適なコンテナデプロイ方法とは？ 〜ECSにおけるデプロイ最新機能てんこ盛り〜 \#devio2020 \- YouTube](https://www.youtube.com/watch?v=68UZucvq8Ok)
-- [\(10\) コンテナ職人が注目する2大新サービス！！re:Invent発表の新サービスを解説｜Developers\.IO TV in ラスベガス Vol\.17 \#reinvent \#cmdevio \- YouTube](https://www.youtube.com/watch?v=VQzOJpuKU2w)
-- [\(10\) 2021年コンテナ最前線〜今AWSでコンテナホストするならなにが現実解なのか？〜 \#devio2021 \- YouTube](https://www.youtube.com/watch?v=1GQkfMW7W3w)
-- [\(10\) サーバレス時代のマルチテナンシーを考える \#cm\_showcase \- YouTube](https://www.youtube.com/watch?v=b3WORvcyWps)
-- [\(10\) 【MAD（モダンアプリケーション開発）領域】AWS re:Invent前に振り返っておきたい去年から今年にかけての激アツアップデート \#akibamad \#reinvent \- YouTube](https://www.youtube.com/watch?v=-8BxO3eEj7g)
-- [\(10\) re:Invent2020のコンテナ系リリース総ざらい 〜独断と偏見のランキングを添えて〜 \#reinvent \#cmregrowth \- YouTube](https://www.youtube.com/watch?v=3-cRxcjUv-I)
+- [あなたの組織に最適なコンテナデプロイ方法とは？ 〜ECSにおけるデプロイ最新機能てんこ盛り〜 \#devio2020 \- YouTube](https://www.youtube.com/watch?v=68UZucvq8Ok)
+- [コンテナ職人が注目する2大新サービス！！re:Invent発表の新サービスを解説｜Developers\.IO TV in ラスベガス Vol\.17 \#reinvent \#cmdevio \- YouTube](https://www.youtube.com/watch?v=VQzOJpuKU2w)
+- [2021年コンテナ最前線〜今AWSでコンテナホストするならなにが現実解なのか？〜 \#devio2021 \- YouTube](https://www.youtube.com/watch?v=1GQkfMW7W3w)
+- [サーバレス時代のマルチテナンシーを考える \#cm\_showcase \- YouTube](https://www.youtube.com/watch?v=b3WORvcyWps)
+- [【MAD（モダンアプリケーション開発）領域】AWS re:Invent前に振り返っておきたい去年から今年にかけての激アツアップデート \#akibamad \#reinvent \- YouTube](https://www.youtube.com/watch?v=-8BxO3eEj7g)
+- [re:Invent2020のコンテナ系リリース総ざらい 〜独断と偏見のランキングを添えて〜 \#reinvent \#cmregrowth \- YouTube](https://www.youtube.com/watch?v=3-cRxcjUv-I)
 
 
 ## 職務経歴：クラスメソッド株式会社（2017年9月〜現在）
