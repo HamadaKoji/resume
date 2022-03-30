@@ -121,7 +121,7 @@
 - [サーバレス時代のマルチテナンシーを考える \#cm\_showcase \- YouTube](https://www.youtube.com/watch?v=b3WORvcyWps)
 - [【MAD（モダンアプリケーション開発）領域】AWS re:Invent前に振り返っておきたい去年から今年にかけての激アツアップデート \#akibamad \#reinvent \- YouTube](https://www.youtube.com/watch?v=-8BxO3eEj7g)
 - [re:Invent2020のコンテナ系リリース総ざらい 〜独断と偏見のランキングを添えて〜 \#reinvent \#cmregrowth \- YouTube](https://www.youtube.com/watch?v=3-cRxcjUv-I)
-
+- [Infra Study Meetup \#2「VM 時代の開発とKubernetes による Cloud Native な開発のこれから」 \- YouTube](https://www.youtube.com/watch?v=9YpN9-RCwWE&t=5766s)
 
 ## 職務経歴：クラスメソッド株式会社（2017年9月〜現在）
 
