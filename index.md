@@ -113,6 +113,7 @@
 - [コンテナジャーニー〜AWSにおける段階式コンテナ運用〜 \- Speaker Deck](https://speakerdeck.com/hamadakoji/kontenaziyani-awsniokeruduan-jie-shi-kontenayun-yong)
 - [チラシの裏と何が違う？読者を虜にするブログの書き方講座 \- Speaker Deck](https://speakerdeck.com/hamadakoji/tirasifalseli-tohe-gawei-u-du-zhe-wolu-nisuruburogufalseshu-kifang-jiang-zuo)
 - [読者を虜にするリード文の書き方 \- Speaker Deck](https://speakerdeck.com/hamadakoji/du-zhe-wolu-nisururidowen-falseshu-kifang)
+- [エンジニアが技術登壇する時に考えるべき事 \- Speaker Deck](https://speakerdeck.com/hamadakoji/enziniagaji-shu-deng-tan-surushi-nikao-erubekishi)
 
 ## 登壇履歴（動画）
 
