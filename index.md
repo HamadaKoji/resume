@@ -114,6 +114,7 @@
 
 ## 登壇履歴（動画）
 
+- [CI/CDプロセスにCloudFormationを本気導入するために考えるべきこと \- YouTube](https://www.youtube.com/watch?v=pqhVCJBtPbA&t=2s)
 - [あなたと組織がモダンアプリケーション開発を実践できるようになるまでの全過程 \#devio2021 \- YouTube](https://www.youtube.com/watch?v=_a3KbH_ehiw)
 - [あなたの組織に最適なコンテナデプロイ方法とは？ 〜ECSにおけるデプロイ最新機能てんこ盛り〜 \#devio2020 \- YouTube](https://www.youtube.com/watch?v=68UZucvq8Ok)
 - [コンテナ職人が注目する2大新サービス！！re:Invent発表の新サービスを解説｜Developers\.IO TV in ラスベガス Vol\.17 \#reinvent \#cmdevio \- YouTube](https://www.youtube.com/watch?v=VQzOJpuKU2w)
