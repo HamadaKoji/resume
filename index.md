@@ -111,6 +111,8 @@
 - [迷える子羊に捧げるコンテナ環境徹底比較　〜ECS、Fargate、EKSは何が得意で不得意か〜 \- Speaker Deck](https://speakerdeck.com/hamadakoji/mi-eruzi-yang-nipeng-gerukontenahuan-jing-che-di-bi-jiao-ecs-fargate-ekshahe-gade-yi-debu-de-yi-ka)
 - [re:Invent2018のマイクロサービス関連新サービス（Cloud MapとApp Mesh） \- Speaker Deck](https://speakerdeck.com/hamadakoji/re-invent2018falsemaikurosabisuguan-lian-xin-sabisu-cloud-maptoapp-mesh)
 - [コンテナジャーニー〜AWSにおける段階式コンテナ運用〜 \- Speaker Deck](https://speakerdeck.com/hamadakoji/kontenaziyani-awsniokeruduan-jie-shi-kontenayun-yong)
+- [チラシの裏と何が違う？読者を虜にするブログの書き方講座 \- Speaker Deck](https://speakerdeck.com/hamadakoji/tirasifalseli-tohe-gawei-u-du-zhe-wolu-nisuruburogufalseshu-kifang-jiang-zuo)
+- [読者を虜にするリード文の書き方 \- Speaker Deck](https://speakerdeck.com/hamadakoji/du-zhe-wolu-nisururidowen-falseshu-kifang)
 
 ## 登壇履歴（動画）
 
