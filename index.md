@@ -139,11 +139,14 @@
   - 主にコンテナ環境を中心としたアーキテクチャ設計、実装を担当
   - 参考：[クラスメソッドのMAD事業部とは何か？ \| DevelopersIO](https://dev.classmethod.jp/articles/about-mad/)
   - 参考：[MAD（Modern Application Development） \| クラスメソッド](https://classmethod.jp/services/mad/)
-- 2021年7月～
+- 2021年7月～2022年9月
   - MAD事業部部長に就任
   - 事業部の統括（売上、利益、採用、経費、顧客案件）
   - 顧客対応実施
-
+- 2022年10月～現在
+  - CX事業本部 Delivery部 VPoEに就任
+  - CX事業本部のデリバリーに関わるエンジニア組織の責任者として、組織構築と採用・育成・専門性の向上・アサイン全般の責任者として業務遂行
+  
 ### 主な顧客プロジェクト（公開事例のみ）
 
 #### クーコム株式会社様
