@@ -12,7 +12,6 @@
 - twitter: [濱田孝治（ハマコー） \(@hamako9999\) / Twitter](https://twitter.com/hamako9999)
 - blog: [https://dev.classmethod.jp/author/hamada-koji](https://dev.classmethod.jp/author/hamada-koji)
 - Speakerdeck: [https://speakerdeck.com/hamadakoji](https://speakerdeck.com/hamadakoji)
-- GitHub: [https://github.com/HamadaKoji](https://github.com/HamadaKoji)
 
 ## 主要な技術スタック
 
@@ -47,7 +46,7 @@
   - PMとして、5人〜15人規模のプロジェクトマネジメントの経験有り
 - マネジメント（ピープルマネジメント）
   - 10人〜30人程度の組織のマネジメント経験有り
-  - 現在は部長職として、30人規模の部署の責任者として、売上、利益、経費、採用、顧客案件に責任をもつ
+  - 部長職として、30人規模の部署の責任者として、売上、利益、経費、採用、顧客案件に責任をもつ
 - Vice President of Engineering（エンジニアリング組織全般の組織開発）
   - 約100人規模のエンジニアリング組織のVPoEとして、専門性の向上、採用、育成、案件アサイン、ピープルマネジメントに責任を持つ
 
@@ -75,28 +74,29 @@
 
 [濱田孝治 \| DevelopersIO](https://dev.classmethod.jp/author/hamada-koji)
 
-- 投稿数：191
-- Facebook Share：8277
-- Twitter Share：12796
-- はてブ：13625
+- 投稿数：203
+- Facebook Share：8660
+- Twitter Share：13203
+- はてブ：14867
 
-キャリアにおいて、定期的に記事を投稿。1記事あたりのはてなブックマーク数は平均71。
+キャリアにおいて、定期的に記事を投稿。1記事あたりのはてなブックマーク数は平均73。
 
 
 ## 認定、課外活動など
-
+- 2022 APN AWS Top Engineers
+  - [2022 Japan AWS Partner Ambassador / 2022 APN AWS Top Engineers の発表 \| AWS JAPAN APN ブログ](https://aws.amazon.com/jp/blogs/psa/2022-japan-aws-partner-ambassador-2022-apn-aws-top-engineers/)
 - 2020 APN AWS Ambassador（全9名）
   - [Japan APN Ambassador 2020 の発表 \| AWS JAPAN APN ブログ](https://aws.amazon.com/jp/blogs/psa/japan-apn-ambassador-2020-awards/)
 - 2019 APN AWS Top Engineer 
 - JAWS-UG コンテナ支部 運営
   - [JAWS\-UG コンテナ支部 \- connpass](https://jawsug-container.connpass.com/)
   - 2019年より運営メンバーに入り、コンテンツの企画、調整、運営、登壇を実施
-  - メンバー数：3007名（2022年3月現在）
+  - メンバー数：3603名（2023年5月現在）
 - 執筆書籍
   - [みんなのAWS　〜AWSの基本を最新アーキテクチャでまるごと理解！](https://www.amazon.co.jp/dp/B087C1K5V1/)
     - 第2章の主に、コンテナを利用したアプリケーション環境の構築、Infrastructure as Codeを利用したハンズオン、CI/CD環境の構築について執筆
   - [Software Design 2022年11月号｜技術評論社](https://gihyo.jp/magazine/SD/archive/2022/202211)
-    - 第1特集の第3章　「当社もコンテナ移行するべき？」を寄稿
+    - 第1特集の第3章　「当社もコンテナ移行するべき？」を執筆
 
 ## 登壇履歴（スライド、ブログ）
 
